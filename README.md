@@ -4,12 +4,14 @@ Evening of Python Coding
 This page contains references to evening of python coding meetups that were held in Austin TX.
 In this gathering, python programmers gathered and presented demos of various python tools and libraries. This page collects links to those demos and meetup pages in hope those demos will be useful.
 
+
+
 Meetup Format
 -------------
-# Gathering - where folk gathered and setup their computers
-# Announcements - brief statements by attendees about events, and other python related issues
-# Demo - short presentation with many questions
-# Working groups - break out into multiple smaller working group such as python learners, web, data science, automation, and whatever attendees suggested
+1. Gathering - where folk gathered and setup their computers
+2. Announcements - brief statements by attendees about events, and other python related issues
+3. Demo - short presentation with many questions
+4. Working groups - break out into multiple smaller working group such as python learners, web, data science, automation, and whatever attendees suggested
 
 
 Past Meetups
@@ -47,4 +49,4 @@ Acknowledgments
 ---------------
 Many thanks to all those who presented a demo and all those who attended and helped others, especially the learners.
 Thanks to [WeWork](https://www.wework.com), [Rackspace](https://www.rackspace.com/), and [Galvanize](https://www.galvanize.com/) who hosted the meetup
-Thanks for Robert Myers, Robert Zurga, Jeremy Langley, and Tipton Cole who helped with organization.
+Thanks for Robert Myers, Robert Zurga, Jeremy Langley, and Tipton Cole who helped with organization and to Peter Wang who initiated this meetup and organized the Austin [python meetup](https://www.meetup.com/austinpython/).
