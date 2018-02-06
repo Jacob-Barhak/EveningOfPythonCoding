@@ -44,6 +44,8 @@ Past Meetups
 * [Sep 2017](https://www.meetup.com/austinpython/events/241129029/) - [Tenacity](https://github.com/camisatx/2017-Evening-of-Python-Coding) by Josh Schertz
 * [Oct 2017](https://www.meetup.com/austinpython/events/241129078/) - [Decorators](https://github.com/lutostag/talks) by Greg Luto
 * [Nov 2017](https://www.meetup.com/austinpython/events/241129362/) - [MIcro Simulation Tool](https://github.com/Jacob-Barhak/MIST) by Jacob Barhak
+* [Jan 2018](https://www.meetup.com/austinpython/events/246345712/) - [Pandas](https://github.com/dannymulligan/public/tree/master/Austin_Python_Meetup) by Danny Mulligan
+
 
 Acknowledgments
 ---------------
