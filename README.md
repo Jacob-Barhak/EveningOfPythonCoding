@@ -46,6 +46,8 @@ Past Meetups
 * [Nov 2017](https://www.meetup.com/austinpython/events/241129362/) - [MIcro Simulation Tool](https://github.com/Jacob-Barhak/MIST) by Jacob Barhak
 * [Jan 2018](https://www.meetup.com/austinpython/events/246345712/) - [Pandas](https://github.com/dannymulligan/public/tree/master/Austin_Python_Meetup) by Danny Mulligan
 * [Feb 2018](https://www.meetup.com/austinpython/events/246345719/) - [Robot framework](https://github.com/rubygeek/robot-demo) by Nola Stowe
+* [Mar 2018](https://www.meetup.com/austinpython/events/246345786/) - [Text classification with mycroft](https://github.com/wpm/mycroft) by Bill McNeill
+
 
 
 Acknowledgments
