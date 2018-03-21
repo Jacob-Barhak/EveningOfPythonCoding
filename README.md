@@ -54,4 +54,4 @@ Acknowledgments
 ---------------
 Many thanks to all those who presented a demo and all those who attended and helped others, especially the learners.
 Thanks to [WeWork](https://www.wework.com), [Rackspace](https://www.rackspace.com/), and [Galvanize](https://www.galvanize.com/) who hosted the meetup
-Thanks for Robert Myers, Robert Zurga, Jeremy Langley, and Tipton Cole who helped with organization and to Peter Wang who initiated this meetup and organized the Austin [python meetup](https://www.meetup.com/austinpython/).
+Thanks for Robert Myers, Robert Zurga, Jeremy Langley, Tipton Cole, and Danny Mulligan who helped with organization and to Peter Wang who initiated this meetup and organized the Austin [python meetup](https://www.meetup.com/austinpython/).
