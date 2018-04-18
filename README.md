@@ -1,7 +1,7 @@
 Evening of Python Coding
 ========================
 
-This page contains references to evening of python coding meetups that were held in Austin TX.
+This page contains references to evening of python coding meetups that were held in Austin TX alongside the [Austin python meetup](https://www.meetup.com/austinpython/).
 In this gathering, python programmers gathered and presented demos of various python tools and libraries. This page collects links to those demos and meetup pages in hope those demos will be useful.
 
 
@@ -32,7 +32,7 @@ Past Meetups
 * [Aug 2016](http://www.meetup.com/austinpython/events/231905395/) - [AWS Lambda](https://github.com/ramhiser/serverless-cloud-vision) by John Ramey
 * [Sep 2016](http://www.meetup.com/austinpython/events/231905499/) - [PyParsing](http://www.ptmcg.com/files/EoPC_pyparsing.ipynb) by Paul McGuire 
 * [Oct 2016](http://www.meetup.com/austinpython/events/231905557/) - [Bottle](https://github.com/dt1/meetup-py) by David Toomey
-* [Nov 2016](http://www.meetup.com/austinpython/events/231905602/) - [Evolutionary Cpomputation with Inspyred](https://github.com/Jacob-Barhak/FairTournament) by Jacob Barhak
+* [Nov 2016](http://www.meetup.com/austinpython/events/231905602/) - [Evolutionary Computation with Inspyred](https://github.com/Jacob-Barhak/FairTournament) by Jacob Barhak
 * [Jan 2017](https://www.meetup.com/austinpython/events/236414541/) - [SciKit-Learn](https://github.com/kgullikson88/apug_sklearn_tutorial) by Kevin Gullikson
 * [Feb 2017](https://www.meetup.com/austinpython/events/236414603/) - [Postgres](https://github.com/decibel/presentations/blob/master/2017-02-15_AustinPython_python-postgres.ipynb) by Jim Nasby
 * [Mar 2017](https://www.meetup.com/austinpython/events/236414625/) - [Spark](https://github.com/drJAGartner/Spark_Demo) by Joe Gartner
@@ -47,6 +47,9 @@ Past Meetups
 * [Jan 2018](https://www.meetup.com/austinpython/events/246345712/) - [Pandas](https://github.com/dannymulligan/public/tree/master/Austin_Python_Meetup) by Danny Mulligan
 * [Feb 2018](https://www.meetup.com/austinpython/events/246345719/) - [Robot framework](https://github.com/rubygeek/robot-demo) by Nola Stowe
 * [Mar 2018](https://www.meetup.com/austinpython/events/246345786/) - [Text classification with mycroft](https://github.com/wpm/mycroft) by Bill McNeill
+* [Apr 2018](https://www.meetup.com/austinpython/events/246345820/) - [C extensions to python](https://github.com/darrenrhea/galvanize) by Darren Rhea
+
+
 
 
 
@@ -54,4 +57,4 @@ Acknowledgments
 ---------------
 Many thanks to all those who presented a demo and all those who attended and helped others, especially the learners.
 Thanks to [WeWork](https://www.wework.com), [Rackspace](https://www.rackspace.com/), and [Galvanize](https://www.galvanize.com/) who hosted the meetup
-Thanks for Robert Myers, Robert Zurga, Jeremy Langley, Tipton Cole, and Danny Mulligan who helped with organization and to Peter Wang who initiated this meetup and organized the Austin [python meetup](https://www.meetup.com/austinpython/).
+Thanks for Robert Myers, Robert Zurga, Jeremy Langley, Tipton Cole, and Danny Mulligan who helped with organization and to Peter Wang who initiated this meetup and organized the [Austin python meetup](https://www.meetup.com/austinpython/).
