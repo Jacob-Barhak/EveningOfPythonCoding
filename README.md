@@ -48,7 +48,7 @@ Past Meetups
 * [Feb 2018](https://www.meetup.com/austinpython/events/246345719/) - [Robot framework](https://github.com/rubygeek/robot-demo) by Nola Stowe
 * [Mar 2018](https://www.meetup.com/austinpython/events/246345786/) - [Text classification with mycroft](https://github.com/wpm/mycroft) by Bill McNeill
 * [Apr 2018](https://www.meetup.com/austinpython/events/246345820/) - [C extensions to python](https://github.com/darrenrhea/galvanize) by Darren Rhea
-
+* [May 2018](https://www.meetup.com/austinpython/events/246345847/) - [CUDA on Anaconda](https://github.com/terminal-labs/anaconda-basics-and-cuda) by Michael Verhulst
 
 
 
