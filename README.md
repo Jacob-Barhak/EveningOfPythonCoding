@@ -52,6 +52,7 @@ Past Meetups
 * [Jun 2018](https://www.meetup.com/austinpython/events/246345872/) - [Tensorflow](https://www.tensorflow.org/) by Charles McCann
 * [Jul 2018](https://www.meetup.com/austinpython/events/251802705/) - [sci-analysis](http://sci-analysis.readthedocs.io/en/latest/) by Chris Morrow
 * [Aug 2018](https://www.meetup.com/austinpython/events/251802735/) - [PyTorch](https://github.com/joshualmitchell/PyTorch-Intro-EOPC) by Joshua Lelon Mitchell
+* [Sep 2018](https://www.meetup.com/austinpython/events/251802762/) - [MatPlotLib](https://github.com/zacdemi/matplotlib-demo) by Zac Demi
 
 
 
