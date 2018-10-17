@@ -53,11 +53,13 @@ Past Meetups
 * [Jul 2018](https://www.meetup.com/austinpython/events/251802705/) - [sci-analysis](http://sci-analysis.readthedocs.io/en/latest/) by Chris Morrow
 * [Aug 2018](https://www.meetup.com/austinpython/events/251802735/) - [PyTorch](https://github.com/joshualmitchell/PyTorch-Intro-EOPC) by Joshua Lelon Mitchell
 * [Sep 2018](https://www.meetup.com/austinpython/events/251802762/) - [MatPlotLib](https://github.com/zacdemi/matplotlib-demo) by Zac Demi
+* [Oct 2018](https://www.meetup.com/austinpython/events/251802859/) - [QGIS](https://github.com/zacdemi/matplotlib-demo) by Guillermo Martinez
+
 
 
 
 Acknowledgments
 ---------------
 Many thanks to all those who presented a demo and all those who attended and helped others, especially the learners.
-Thanks to [WeWork](https://www.wework.com), [Rackspace](https://www.rackspace.com/), and [Galvanize](https://www.galvanize.com/) who hosted the meetup
+Thanks to [WeWork](https://www.wework.com), [Rackspace](https://www.rackspace.com/), [Galvanize](https://www.galvanize.com/), and the [Austin Public Library](http://library.austintexas.gov/) who hosted the meetup
 Thanks for Robert Myers, Robert Zurga, Jeremy Langley, Tipton Cole, and Danny Mulligan who helped with organization and to Peter Wang who initiated this meetup and organized the [Austin python meetup](https://www.meetup.com/austinpython/).
