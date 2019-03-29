@@ -57,6 +57,8 @@ Past Meetups
 * [Nov 2018](https://www.meetup.com/austinpython/events/251802926/) - [Tensorflow](https://github.com/abaybektursun/tf_tutorial) by Abay Bektursun
 * [Jan 2019](https://www.meetup.com/austinpython/events/256997572/) - [Open AI gym](https://github.com/marcinic/gym_demo) by Chris Marciniak
 * [Feb 2019](https://www.meetup.com/austinpython/events/256997583/) - [Panel](https://anaconda.org/jbednar/datashaderclifford) by James Bednar
+* [Mar 2019](https://www.meetup.com/austinpython/events/256997603/) - [cython](https://github.com/JFeaux/cython_demo) by Jacob Faucheaux
+
 
 
 
