@@ -58,6 +58,7 @@ Past Meetups
 * [Jan 2019](https://www.meetup.com/austinpython/events/256997572/) - [Open AI gym](https://github.com/marcinic/gym_demo) by Chris Marciniak
 * [Feb 2019](https://www.meetup.com/austinpython/events/256997583/) - [Panel](https://anaconda.org/jbednar/datashaderclifford) by James Bednar
 * [Mar 2019](https://www.meetup.com/austinpython/events/256997603/) - [cython](https://github.com/JFeaux/cython_demo) by Jacob Faucheaux
+* [Apr 2019](https://www.meetup.com/austinpython/events/256997646/) - [qiskit](https://qiskit.org) by Daniel Mahler
 
 
 
