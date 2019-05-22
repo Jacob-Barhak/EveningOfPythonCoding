@@ -59,7 +59,7 @@ Past Meetups
 * [Feb 2019](https://www.meetup.com/austinpython/events/256997583/) - [Panel](https://anaconda.org/jbednar/datashaderclifford) by James Bednar
 * [Mar 2019](https://www.meetup.com/austinpython/events/256997603/) - [cython](https://github.com/JFeaux/cython_demo) by Jacob Faucheaux
 * [Apr 2019](https://www.meetup.com/austinpython/events/256997646/) - [qiskit](https://github.com/mhlr/qiskit-meetup) by Daniel Mahler
-
+* [May 2019](https://www.meetup.com/austinpython/events/258095600/) - [Docker](https://github.com/reba84/docker_workshop) by Becky Ruppel
 
 
 
