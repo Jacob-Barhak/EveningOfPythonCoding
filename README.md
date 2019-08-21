@@ -62,6 +62,7 @@ Past Meetups
 * [May 2019](https://www.meetup.com/austinpython/events/258095600/) - [Docker](https://github.com/reba84/docker_workshop) by Becky Ruppel
 * [Jun 2019](https://www.meetup.com/austinpython/events/256997714/) - [numpy](https://github.com/ScottNicholsonKurland/ScottNicholsonKurland.github.io/blob/master/NumpyForDataScience.ipynb) by Scott Kurland
 * [Jul 2019](https://www.meetup.com/austinpython/events/260654191/) - [flask](https://github.com/fulkgl/Flask_edu_1) by George Fulk
+* [Aug 2019](https://www.meetup.com/austinpython/events/260654237/) - [sqlite3](https://github.com/tipton/Sqlite_Python) by Tipton Cole
 
 
 
