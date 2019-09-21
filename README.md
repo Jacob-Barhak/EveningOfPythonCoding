@@ -63,6 +63,7 @@ Past Meetups
 * [Jun 2019](https://www.meetup.com/austinpython/events/256997714/) - [numpy](https://github.com/ScottNicholsonKurland/ScottNicholsonKurland.github.io/blob/master/NumpyForDataScience.ipynb) by Scott Kurland
 * [Jul 2019](https://www.meetup.com/austinpython/events/260654191/) - [flask](https://github.com/fulkgl/Flask_edu_1) by George Fulk
 * [Aug 2019](https://www.meetup.com/austinpython/events/260654237/) - [sqlite3](https://github.com/tipton/Sqlite_Python) by Tipton Cole
+* [Sep 2019](https://www.meetup.com/austinpython/events/260654481/) - [bitarray](http://www.schnell-analytics.com/sieve.html) by Ilan Schnell
 
 
 
