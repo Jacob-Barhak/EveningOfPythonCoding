@@ -64,6 +64,7 @@ Past Meetups
 * [Jul 2019](https://www.meetup.com/austinpython/events/260654191/) - [flask](https://github.com/fulkgl/Flask_edu_1) by George Fulk
 * [Aug 2019](https://www.meetup.com/austinpython/events/260654237/) - [sqlite3](https://github.com/tipton/Sqlite_Python) by Tipton Cole
 * [Sep 2019](https://www.meetup.com/austinpython/events/260654481/) - [bitarray](http://www.schnell-analytics.com/sieve.html) by Ilan Schnell
+* [Oct 2019](https://www.meetup.com/austinpython/events/260654556/) - [pygame](https://github.com/kevroy314/pygame-demo/blob/master/pygame-demo.py) by Kevin Horecka
 
 
 
