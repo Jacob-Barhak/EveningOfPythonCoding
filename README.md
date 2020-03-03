@@ -67,6 +67,7 @@ Past Meetups
 * [Oct 2019](https://www.meetup.com/austinpython/events/260654556/) - [pygame](https://github.com/kevroy314/pygame-demo/blob/master/pygame-demo.py) by Kevin Horecka
 * [Nov 2019](https://www.meetup.com/austinpython/events/260654596/) - [Holoviews](https://anaconda.org/jlstevens/holoviews-concepts) by Jean-Luc Stevens
 * [Jan 2020](https://www.meetup.com/austinpython/events/266446335/) - [Selenium](https://github.com/K-Nesbitt/selenium_tutorial) by Keatra Nesbitt
+* [Feb 2020](https://www.meetup.com/austinpython/events/266446370/) - [FastAI](https://github.com/fastai/fastai) by Misty Nodine
 
 
 
