@@ -70,6 +70,7 @@ Past Meetups
 * [Feb 2020](https://www.meetup.com/austinpython/events/266446370/) - [FastAI](https://github.com/fastai/fastai) by Misty Nodine
 * [Mar 2020](https://www.meetup.com/austinpython/events/266446399/) - [Z3 theorem prover](https://bitbucket.org/SilasX/satsolvers) + [Video](https://youtu.be/748bG0JMDrk) by Silas Barta 
 * [Apr 2020](https://www.meetup.com/austinpython/events/266446426/) - [spaCy](https://github.com/ericdatakelly/spacy-intro) + [Video](https://youtu.be/ZyX0mBpiFoE) by Eric Kelly 
+* [May 2020](https://www.meetup.com/austinpython/events/266446518/) - [Travis CI](https://github.com/erikvw/sarscov2x) + [Video](https://youtu.be/aNmbvlfCvsk) by Erik van Widenfelt
 
 
 
