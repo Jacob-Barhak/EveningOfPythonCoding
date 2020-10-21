@@ -75,6 +75,8 @@ Past Meetups
 * [Jul 2020](https://www.meetup.com/austinpython/events/phlttrybckbcc/) - [MUSE](https://github.com/deekshayennam/MUSE-Demo) + [Video](https://youtu.be/z7B013XOYdo) by Deeksha Yennam
 * [Aug 2020](https://www.meetup.com/austinpython/events/phlttrybclbxb/) - [Dask](https://github.com/Jacob-Barhak/DaskDemo) + [Video](https://youtu.be/4kgvRcz25XE) by Jacob Barhak
 * [Sep 2020](https://www.meetup.com/austinpython/events/phlttrybcmbtb/) - [Advanced Python Scheduler](https://github.com/jasondeutsch/apscheduler-short-demo) + [Video](https://youtu.be/iVK0UrXdL_U) by Jason Deutsch
+* [Oct 2020](https://www.meetup.com/austinpython/events/phlttrybcnbbc/) - [Modin](https://github.com/RakshakTalwar/ModinTutorial) + [Video](https://youtu.be/d15S-YE1sjo) by Rakshak Talwar
+
 
 
 
