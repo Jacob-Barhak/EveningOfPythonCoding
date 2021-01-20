@@ -77,7 +77,7 @@ Past Meetups
 * [Sep 2020](https://www.meetup.com/austinpython/events/phlttrybcmbtb/) - [Advanced Python Scheduler](https://github.com/jasondeutsch/apscheduler-short-demo) + [Video](https://youtu.be/iVK0UrXdL_U) by Jason Deutsch
 * [Oct 2020](https://www.meetup.com/austinpython/events/phlttrybcnbbc/) - [Modin](https://github.com/RakshakTalwar/ModinTutorial) + [Video](https://youtu.be/d15S-YE1sjo) by Rakshak Talwar
 * [Nov 2020](https://www.meetup.com/austinpython/events/phlttrybcpbwb/) - [hvPlot](https://hvplot.holoviz.org/user_guide/Introduction.html) + [Video](https://youtu.be/Ran24y7zj-4) by James Bednar
-* [Jan 2021] [Austin](https://www.meetup.com/austinpython/events/nbkjcsycccbzb/) [DC](https://www.meetup.com/dcpython/events/lckjcsycccbzb/)- [Pandas Profiling]( https://github.com/jgendron/pandas-profiling-demo) + [Video](https://youtu.be/tW78gWCjGk8) by Jay Gendron
+* Jan 2021 [Austin](https://www.meetup.com/austinpython/events/nbkjcsycccbzb/) / [DC](https://www.meetup.com/dcpython/events/lckjcsycccbzb/)- [Pandas Profiling]( https://github.com/jgendron/pandas-profiling-demo) + [Video](https://youtu.be/tW78gWCjGk8) by Jay Gendron
 
 
 
@@ -86,5 +86,5 @@ Past Meetups
 Acknowledgments
 ---------------
 Many thanks to all those who presented a demo and all those who attended and helped others, especially the learners.
-Thanks to [WeWork](https://www.wework.com), [Rackspace](https://www.rackspace.com/), [Galvanize](https://www.galvanize.com/), the [Austin Public Library](http://library.austintexas.gov/) [Capital Factory](https://www.capitalfactory.com/) who hosted and sponsored the meetup. 
+Thanks to [WeWork](https://www.wework.com), [Rackspace](https://www.rackspace.com/), [Galvanize](https://www.galvanize.com/), the [Austin Public Library](http://library.austintexas.gov/) and [Capital Factory](https://www.capitalfactory.com/) who hosted and sponsored the meetup. 
 Thanks for Robert Myers, Robert Zurga, Jeremy Langley, Tipton Cole, Danny Mulligan, Florin Matei and Alex Clark who helped with organization and to Peter Wang who initiated this meetup and organized the [Austin python meetup](https://www.meetup.com/austinpython/).
