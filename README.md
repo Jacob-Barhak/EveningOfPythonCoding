@@ -78,7 +78,7 @@ Past Meetups
 * [Oct 2020](https://www.meetup.com/austinpython/events/phlttrybcnbbc/) - [Modin](https://github.com/RakshakTalwar/ModinTutorial) + [Video](https://youtu.be/d15S-YE1sjo) by Rakshak Talwar
 * [Nov 2020](https://www.meetup.com/austinpython/events/phlttrybcpbwb/) - [hvPlot](https://hvplot.holoviz.org/user_guide/Introduction.html) + [Video](https://youtu.be/Ran24y7zj-4) by James Bednar
 * Jan 2021 [Austin](https://www.meetup.com/austinpython/events/nbkjcsycccbzb/) / [DC](https://www.meetup.com/dcpython/events/lckjcsycccbzb/)- [Pandas Profiling](https://github.com/jgendron/pandas-profiling-demo) + [Video](https://youtu.be/tW78gWCjGk8) by Jay Gendron
-* Feb 2021 [Austin](https://www.meetup.com/austinpython/events/nbkjcsyccdbvb/) / [DC](https://www.meetup.com/dcpython/events/lckjcsyccdbvb/)- [Seaborn Profiling](https://github.com/ChungHsuanKao/Seaborn-demonstration) + [Video](https://youtu.be/x2sp2Zao1GA) by Gary Kao
+* Feb 2021 [Austin](https://www.meetup.com/austinpython/events/nbkjcsyccdbvb/) / [DC](https://www.meetup.com/dcpython/events/lckjcsyccdbvb/)- [Seaborn](https://github.com/ChungHsuanKao/Seaborn-demonstration) + [Video](https://youtu.be/x2sp2Zao1GA) by Gary Kao
 
 
 
