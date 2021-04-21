@@ -80,6 +80,7 @@ Past Meetups
 * Jan 2021 [Austin](https://www.meetup.com/austinpython/events/nbkjcsycccbzb/) / [DC](https://www.meetup.com/dcpython/events/lckjcsycccbzb/) - [Pandas Profiling](https://github.com/jgendron/pandas-profiling-demo) + [Video](https://youtu.be/tW78gWCjGk8) by Jay Gendron
 * Feb 2021 [Austin](https://www.meetup.com/austinpython/events/nbkjcsyccdbvb/) / [DC](https://www.meetup.com/dcpython/events/lckjcsyccdbvb/) - [Seaborn](https://github.com/ChungHsuanKao/Seaborn-demonstration) + [Video](https://youtu.be/x2sp2Zao1GA) by Gary Kao
 * Mar 2021 [Austin](https://www.meetup.com/austinpython/events/nbkjcsyccfbvb/) / [DC](https://www.meetup.com/dcpython/events/lckjcsyccfbvb/) - [ChEMBL webresource client](https://github.com/masonpatricia/Austin-Python-Meetup-ChEMBL-Database) + [Video](https://youtu.be/6OGzJC1Ejug) by Patricia Mason
+* Apr 2021 [Austin](https://www.meetup.com/austinpython/events/nbkjcsyccgbbc/) / [DC](https://www.meetup.com/dcpython/events/lckjcsyccgbbc/) - [python scripting with Blender](https://github.com/bjg00/BlenderPresentationApril21) + [Video](https://youtu.be/c76BtT-YF2s) by Brendan Johnson
 
 
 
