@@ -84,6 +84,7 @@ Past Meetups
 * May 2021 [Austin](https://www.meetup.com/austinpython/events/nbkjcsycchbxb/) / [DC](https://www.meetup.com/dcpython/events/lckjcsycchbxb/) - [flake 8](https://github.com/cleonard/flake8_demo) + [Video](https://youtu.be/GD7S2I3aN6A) by Chris Leonard
 * Jun 2021 [Austin](https://www.meetup.com/austinpython/events/275056418/) / [DC](https://www.meetup.com/dcpython/events/lckjcsyccjbtb/) - [Plotly](https://github.com/AllenChildress/Python_Plotly_Demo) + [Video](https://youtu.be/coeYT58MSB8) by Allen Childress
 * Jul 2021 [Austin](https://www.meetup.com/austinpython/events/279553181/) / [DC](https://www.meetup.com/dcpython/events/279553230/) - [upyterLab, Dask, and pcluster](https://github.com/MDReferee/dask-gateway-example) + [Video](https://youtu.be/KOsencZ9vf0) by Aaron Skolnik and Ramon Ramirez-Linan 
+* Aug 2021 [Austin](https://www.meetup.com/austinpython/events/280125340/) / [DC](https://www.meetup.com/dcpython/events/280125348/) - [Prefect](https://github.com/Jacob-Barhak/PrefectDemo) + [Video](https://youtu.be/vCqcr3FKf_I) by Jacob Barhak 
 
 
 
