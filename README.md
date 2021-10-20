@@ -86,6 +86,7 @@ Past Meetups
 * Jul 2021 [Austin](https://www.meetup.com/austinpython/events/279553181/) / [DC](https://www.meetup.com/dcpython/events/279553230/) - [upyterLab, Dask, and pcluster](https://github.com/MDReferee/dask-gateway-example) + [Video](https://youtu.be/KOsencZ9vf0) by Aaron Skolnik and Ramon Ramirez-Linan 
 * Aug 2021 [Austin](https://www.meetup.com/austinpython/events/280125340/) / [DC](https://www.meetup.com/dcpython/events/280125348/) - [Prefect](https://github.com/Jacob-Barhak/PrefectDemo) + [Video](https://youtu.be/vCqcr3FKf_I) by Jacob Barhak 
 * Sep 2021 [Austin](https://www.meetup.com/austinpython/events/280125393/) / [DC](https://www.meetup.com/dcpython/events/280125394/) - [Numba](https://github.com/numba/numba-examples/blob/master/notebooks/basics.ipynb) + [Video](https://youtu.be/dl8JnpO7vBY) by Stanley Seibert
+* Oct 2021 [Austin](https://www.meetup.com/austinpython/events/280412977/) / [DC](https://www.meetup.com/dcpython/events/280413140/) - [Prefetch](https://github.com/ambianic/peerfetch/blob/main/examples/helloworld/README.md) + [Video](https://youtu.be/LFKYtL1_RjQ) by Ivelin Ivanov
 
 
 
