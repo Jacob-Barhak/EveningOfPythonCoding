@@ -88,7 +88,9 @@ Past Meetups
 * Sep 2021 [Austin](https://www.meetup.com/austinpython/events/280125393/) / [DC](https://www.meetup.com/dcpython/events/280125394/) - [Numba](https://github.com/numba/numba-examples/blob/master/notebooks/basics.ipynb) + [Video](https://youtu.be/dl8JnpO7vBY) by Stanley Seibert
 * Oct 2021 [Austin](https://www.meetup.com/austinpython/events/280412977/) / [DC](https://www.meetup.com/dcpython/events/280413140/) - [Prefetch](https://github.com/ambianic/peerfetch/blob/main/examples/helloworld/README.md) + [Video](https://youtu.be/LFKYtL1_RjQ) by Ivelin Ivanov
 * Nov 2021 [Austin](https://www.meetup.com/austinpython/events/280413061/) / [DC](https://www.meetup.com/dcpython/events/280413215/) - [LightGBM](https://github.com/jameslamb/lightgbm-dask-testing/blob/main/notebooks/demo.ipynb) + [Video](https://youtu.be/Yh-jK497VZU) by James Lamb
+* Dec 2022 [Austin](https://www.meetup.com/austinpython/events/282540716/) / [DC](https://www.meetup.com/dcpython/events/282540738/) - [dynaparse](https://github.com/mwharton3/dynaparse-eopc) + [Video](https://youtu.be/Rd6n-N4IWEk) by Michael Wharton
 
+ 
 
 
 
