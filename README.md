@@ -93,6 +93,8 @@ Past Meetups
 * Mar 2022 [Austin](https://www.meetup.com/austinpython/events/283670575/) / [DC](https://www.meetup.com/dcpython/events/283670805/) - [mxnet](https://github.com/barry-jin/mxnet-eopc) + [Video](https://youtu.be/w4scQVxknEw) by Zhenghui Jin
 * Apr 2022 [Austin](https://www.meetup.com/austinpython/events/282692057/) / [DC](https://www.meetup.com/dcpython/events/282692071/) - [Prefect](https://github.com/kvnkho/demos/tree/main/meetups/austin-dc-meetup) + [Video](https://youtu.be/KhQRGT0s1tM) by Kevin Gregory Kho
 * May 2022 [Austin](https://www.meetup.com/austinpython/events/282711581/) / [DC](https://www.meetup.com/dcpython/events/282711585/) - [nuScenes](https://colab.research.google.com/github/nutonomy/nuscenes-devkit/blob/master/python-sdk/tutorials/nuscenes_tutorial.ipynb) + [Video](https://youtu.be/FPbuvsWKAkg) by Whye Kit Fong
+* Jun 2022 [Austin](https://www.meetup.com/austinpython/events/284915186/) / [DC](https://www.meetup.com/dcpython/events/284915217/) - [passpredict](https://github.com/samtx/passpredict/tree/main/examples) + [Video](https://youtu.be/y9LRwJrskKc) by Sam Friedman 
+
  
 
 
