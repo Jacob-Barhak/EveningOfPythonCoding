@@ -96,6 +96,7 @@ Past Meetups
 * Jun 2022 [Austin](https://www.meetup.com/austinpython/events/284915186/) / [DC](https://www.meetup.com/dcpython/events/284915217/) - [passpredict](https://github.com/samtx/passpredict/tree/main/examples) + [Video](https://youtu.be/y9LRwJrskKc) by Sam Friedman 
 * Jul 2022 [Austin](https://www.meetup.com/austinpython/events/285994780/) / [DC](https://www.meetup.com/dcpython/events/285994783/) - [nuScenes](https://colab.research.google.com/github/nutonomy/nuscenes-devkit/blob/master/python-sdk/tutorials/nuscenes_tutorial.ipynb) + [Video](https://youtu.be/5Q4a6mdN8Go) by Whye Kit Fong
 * Aug 2022 [Austin](https://www.meetup.com/austinpython/events/286099061/) / [DC](https://www.meetup.com/dcpython/events/286099078/) - [fugue](https://github.com/kvnkho/demos/blob/main/meetups/porting-existing-code-to-distrbuted-computing/porting_code_to_spark.ipynb) + [Video](https://youtu.be/elvP09Nrsrs) by Kevin Gregory Kho
+* SEP 2022 [Austin](https://www.meetup.com/austinpython/events/287327232/) / [DC](https://www.meetup.com/dcpython/events/287327264/) - [Redis OM Python](https://github.com/redis-developer/redis-om-python-search-demo) + [Video](https://youtu.be/A0uZAUEg_N4) by  Savannah Norem and Simon Prickett
 
  
 
