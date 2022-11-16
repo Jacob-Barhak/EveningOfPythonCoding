@@ -98,6 +98,7 @@ Past Meetups
 * Aug 2022 [Austin](https://www.meetup.com/austinpython/events/286099061/) / [DC](https://www.meetup.com/dcpython/events/286099078/) - [fugue](https://github.com/kvnkho/demos/blob/main/meetups/porting-existing-code-to-distrbuted-computing/porting_code_to_spark.ipynb) + [Video](https://youtu.be/elvP09Nrsrs) by Kevin Gregory Kho
 * Sep 2022 [Austin](https://www.meetup.com/austinpython/events/287327232/) / [DC](https://www.meetup.com/dcpython/events/287327264/) - [Redis OM Python](https://github.com/redis-developer/redis-om-python-search-demo) + [Video](https://youtu.be/A0uZAUEg_N4) by  Savannah Norem and Simon Prickett
 * Oct 2022 [Austin](https://www.meetup.com/austinpython/events/287587325/) / [DC](https://www.meetup.com/dcpython/events/287587331/) - [Clinic EDC](https://github.com/meta-trial/meta3-demo) + [Video](https://youtu.be/S6LTypDtDAk) by Erik van Widenfelt 
+* Nov 2023 [Austin](https://www.meetup.com/austinpython/events/287578073/) / [DC](https://www.meetup.com/dcpython/events/287578082/) - [PyLint](https://github.com/gemanor/pycon-pylint) + [Video](https://youtu.be/TISbUXgDwXI) by  Gabriel Manor-Liechtman 
 
 
  
