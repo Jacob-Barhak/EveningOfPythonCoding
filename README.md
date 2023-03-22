@@ -101,7 +101,7 @@ Past Meetups
 * Nov 2022 [Austin](https://www.meetup.com/austinpython/events/287578073/) / [DC](https://www.meetup.com/dcpython/events/287578082/) - [PyLint](https://github.com/gemanor/pycon-pylint) + [Video](https://youtu.be/TISbUXgDwXI) by  Gabriel Manor-Liechtman 
 * Jan 2023 [Austin](https://www.meetup.com/austinpython/events/289100612/) / [DC](https://www.meetup.com/dcpython/events/289100617/) - [Streamlit](https://github.com/Back2Basics/streamlit-demo-calculator) + [Video](https://youtu.be/H6NsQECo6nw) by Jeremy Langley
 * Feb 2023 [Austin](https://www.meetup.com/austinpython/events/290414165/) / [DC](https://www.meetup.com/dcpython/events/290414173/) - [quibbler](https://github.com/Technion-Kishony-lab/quibbler/tree/master/developer_tools/demos) + [Video](https://youtu.be/ORgrHdC4lE0) by Roy Kishony
-
+* Mar 2023 [Austin](https://www.meetup.com/austinpython/events/290908447/) / [DC](https://www.meetup.com/dcpython/events/290908453/) - [hugging face spaces](https://huggingface.co/spaces/ivelin/ui-refexp) + [Video](https://youtu.be/jg26K7AyG_o) by Ivelin Ivanov
 
 
 
