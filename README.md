@@ -104,7 +104,8 @@ Past Meetups
 * Mar 2023 [Austin](https://www.meetup.com/austinpython/events/290908447/) / [DC](https://www.meetup.com/dcpython/events/290908453/) - [hugging face spaces](https://huggingface.co/spaces/ivelin/ui-refexp) + [Video](https://youtu.be/jg26K7AyG_o) by Ivelin Ivanov
 * Apr 2023 [Austin](https://www.meetup.com/austinpython/events/290847709/) / [DC](https://www.meetup.com/dcpython/events/290847716/) - [aegparse](https://github.com/reuven/AustinDC-2023-04April-19) + [Video](https://youtu.be/hR3oTnhkM9g) by Reuven Lerner
 * May 2023 [Austin](https://www.meetup.com/austinpython/events/291803650/) / [DC](https://www.meetup.com/dcpython/events/291803655/) - [faker](https://github.com/grahamwaters/Faker_Presentation.git) + [Video](https://youtu.be/uhQ-6B5e5Is) by Graham Waters
- 
+* Jun 2023 [Austin](https://www.meetup.com/austinpython/events/292874333/) / [DC](https://www.meetup.com/dcpython/events/292874471/) - [pennylane](https://github.com/alvaro-at-xanadu/intro_to_qml) + [Video](https://youtu.be/_gUuESfiryU) by Alvaro Ballon
+
 
 
 
