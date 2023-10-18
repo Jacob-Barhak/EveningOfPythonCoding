@@ -108,6 +108,7 @@ Past Meetups
 * Jul 2023 [Austin](https://www.meetup.com/austinpython/events/294089607/) / [DC](https://www.meetup.com/dcpython/events/294089619/) - [chainlit](https://github.com/Machine-Learning-Maker-Space/Introduction-to-Chainlit) + [Video](https://youtu.be/D2wx1OD5HuM) by Greg Loughnane and Chris Alexiuk
 * Aug 2023 [Austin](https://www.meetup.com/austinpython/events/294805676/) / [DC](https://www.meetup.com/dcpython/events/294805684/) - [Jina](https://github.com/Jacob-Barhak/JinaDemo) + [Video](https://youtu.be/JWxRYSqT9w0) by Jacob Barhak
 * Sep 2023 [Austin](https://www.meetup.com/austinpython/events/295080184/) / [DC](https://www.meetup.com/dcpython/events/295080192/) - [scylladb](https://iot.scylladb.com/stable/build-with-python.html) + [Video](https://youtu.be/7PBx_Uz4QPI) by Attila Tóth
+* Oct 2023 [Austin](https://www.meetup.com/austinpython/events/295340041/) / [DC](https://www.meetup.com/dcpython/events/295340046/) - [Hierarchical Forecast](https://github.com/kvnkho/pydata-timeseries-forecasting) + [Video](https://youtu.be/WEo912xBIsw) by Kevin Gregory Kho
 
 
 
