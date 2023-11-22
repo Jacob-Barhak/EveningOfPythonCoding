@@ -109,6 +109,7 @@ Past Meetups
 * Aug 2023 [Austin](https://www.meetup.com/austinpython/events/294805676/) / [DC](https://www.meetup.com/dcpython/events/294805684/) - [Jina](https://github.com/Jacob-Barhak/JinaDemo) + [Video](https://youtu.be/JWxRYSqT9w0) by Jacob Barhak
 * Sep 2023 [Austin](https://www.meetup.com/austinpython/events/295080184/) / [DC](https://www.meetup.com/dcpython/events/295080192/) - [scylladb](https://iot.scylladb.com/stable/build-with-python.html) + [Video](https://youtu.be/7PBx_Uz4QPI) by Attila Tóth
 * Oct 2023 [Austin](https://www.meetup.com/austinpython/events/295340041/) / [DC](https://www.meetup.com/dcpython/events/295340046/) - [Hierarchical Forecast](https://github.com/kvnkho/pydata-timeseries-forecasting) + [Video](https://youtu.be/WEo912xBIsw) by Kevin Gregory Kho
+* Nov 2023 [Austin](https://www.meetup.com/austinpython/events/296107326/) / [DC](https://www.meetup.com/dcpython/events/296107337/) - [SANIC](https://github.com/ahopkins/sanicbook) + [Video](https://youtu.be/nr1fbfrCQe4) by Adam Hopkins
 
 
 
