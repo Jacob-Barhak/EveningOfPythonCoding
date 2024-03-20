@@ -112,6 +112,7 @@ Past Meetups
 * Nov 2023 [Austin](https://www.meetup.com/austinpython/events/296107326/) / [DC](https://www.meetup.com/dcpython/events/296107337/) - [SANIC](https://github.com/ahopkins/sanicbook) + [Video](https://youtu.be/nr1fbfrCQe4) by Adam Hopkins
 * Jan 2024 [Austin](https://www.meetup.com/austinpython/events/296126428/) / [DC](https://www.meetup.com/dcpython/events/296126432/) - [Github Codespaces](https://github.com/CupOfGeo/Attractors) + [Video](https://youtu.be/ZiLK14pU_9k) by George Mazzeo
 * Feb 2024 [Austin](https://www.meetup.com/austinpython/events/296282309/) / [DC](https://www.meetup.com/dcpython/events/296282320/) - [Ray](https://github.com/LilySu/RayPytorchLightning) + [Video](https://youtu.be/FXltwMNHkbA) by Lily Su
+* Mar 2024 [Austin](https://www.meetup.com/austinpython/events/296450383/) / [DC](https://www.meetup.com/dcpython/events/296450361/) - [ConsolePrint](https://pypi.org/project/ConsolePrint/) + [Video](https://youtu.be/P6ZLGfAeOAg) by Udemezue Iloabachie
 
 
 
