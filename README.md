@@ -113,6 +113,8 @@ Past Meetups
 * Jan 2024 [Austin](https://www.meetup.com/austinpython/events/296126428/) / [DC](https://www.meetup.com/dcpython/events/296126432/) - [Github Codespaces](https://github.com/CupOfGeo/Attractors) + [Video](https://youtu.be/ZiLK14pU_9k) by George Mazzeo
 * Feb 2024 [Austin](https://www.meetup.com/austinpython/events/296282309/) / [DC](https://www.meetup.com/dcpython/events/296282320/) - [Ray](https://github.com/LilySu/RayPytorchLightning) + [Video](https://youtu.be/FXltwMNHkbA) by Lily Su
 * Mar 2024 [Austin](https://www.meetup.com/austinpython/events/296450383/) / [DC](https://www.meetup.com/dcpython/events/296450361/) - [ConsolePrint](https://pypi.org/project/ConsolePrint/) + [Video](https://youtu.be/P6ZLGfAeOAg) by Udemezue Iloabachie
+* Apr 2024 [Austin](https://www.meetup.com/austinpython/events/296654968/) / [DC](https://www.meetup.com/dcpython/events/296654956/) - [Pillow](https://github.com/python-pillow/pillow-demo) + [Video](https://youtu.be/xVYqh5ElHUU) by Jeffrey A. Clark (Alex)
+* May 2024 [Austin](https://www.meetup.com/austinpython/events/296738722/) / [DC](https://www.meetup.com/dcpython/events/296738725/) - [OPAL](https://github.com/permitio/opal) + [Video](https://youtu.be/obEqjvxAMQ8) by Gabriel Manor-Liechtman
 
 
 
