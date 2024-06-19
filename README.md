@@ -115,7 +115,7 @@ Past Meetups
 * Mar 2024 [Austin](https://www.meetup.com/austinpython/events/296450383/) / [DC](https://www.meetup.com/dcpython/events/296450361/) - [ConsolePrint](https://pypi.org/project/ConsolePrint/) + [Video](https://youtu.be/P6ZLGfAeOAg) by Udemezue Iloabachie
 * Apr 2024 [Austin](https://www.meetup.com/austinpython/events/296654968/) / [DC](https://www.meetup.com/dcpython/events/296654956/) - [Pillow](https://github.com/python-pillow/pillow-demo) + [Video](https://youtu.be/xVYqh5ElHUU) by Jeffrey A. Clark (Alex)
 * May 2024 [Austin](https://www.meetup.com/austinpython/events/296738722/) / [DC](https://www.meetup.com/dcpython/events/296738725/) - [OPAL](https://github.com/permitio/opal) + [Video](https://youtu.be/obEqjvxAMQ8) by Gabriel Manor-Liechtman
-
+* Jun 2024 [Austin](https://www.meetup.com/austinpython/events/298318577/) / [DC](https://www.meetup.com/dcpython/events/298318748/) - [Ansible](https://github.com/alfre2v/python_meetup_ansible_demo) + [Video](https://youtu.be/rGX0tE8nECI) by Alfredo Valles
 
 
 Acknowledgments
