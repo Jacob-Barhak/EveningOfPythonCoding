@@ -116,6 +116,7 @@ Past Meetups
 * Apr 2024 [Austin](https://www.meetup.com/austinpython/events/296654968/) / [DC](https://www.meetup.com/dcpython/events/296654956/) - [Pillow](https://github.com/python-pillow/pillow-demo) + [Video](https://youtu.be/xVYqh5ElHUU) by Jeffrey A. Clark (Alex)
 * May 2024 [Austin](https://www.meetup.com/austinpython/events/296738722/) / [DC](https://www.meetup.com/dcpython/events/296738725/) - [OPAL](https://github.com/permitio/opal) + [Video](https://youtu.be/obEqjvxAMQ8) by Gabriel Manor-Liechtman
 * Jun 2024 [Austin](https://www.meetup.com/austinpython/events/298318577/) / [DC](https://www.meetup.com/dcpython/events/298318748/) - [Ansible](https://github.com/alfre2v/python_meetup_ansible_demo) + [Video](https://youtu.be/rGX0tE8nECI) by Alfredo Valles
+* Jul 2024 [Austin](https://www.meetup.com/austinpython/events/300478208/) / [DC](https://www.meetup.com/dcpython/events/300478216/) - [FireDucks](https://colab.research.google.com/drive/1qpej-X7CZsIeOqKuhBg4kq-cbGuJf1Zp?usp=sharing) + [Video](https://youtu.be/53ZIeQn3KhQ) by Sourav Saha
 
 
 Acknowledgments
