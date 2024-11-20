@@ -120,6 +120,7 @@ Past Meetups
 * Aug 2024 [Austin](https://www.meetup.com/austinpython/events/301834974/) / [DC](https://www.meetup.com/dcpython/events/301834988/) - [roboflow](https://colab.research.google.com/drive/1WrwJA0AQHngRBvHvajFcsR6xoOLlHxth?usp=sharing) + [Video](https://youtu.be/TzO-Yjlx5HE) by Don Branson
 * Sep 2024 [Austin](https://www.meetup.com/austinpython/events/302400319/) / [DC](https://www.meetup.com/dcpython/events/302400326/) - [coiled](https://github.com/MoCoMakers/coiled-demo) + [Video](https://youtu.be/Oj8GhtJR02g) by Matthew Zamora
 * Oct 2024 [Austin](https://www.meetup.com/austinpython/events/302400366/) / [DC](https://www.meetup.com/dcpython/events/302400373/) - [wagtail](https://github.com/epolkovnikov/wagtail101) + [Video](https://youtu.be/ervl4VOW5jM) by Evgeny Polkovnikov
+* Nov 2024 [Austin](https://www.meetup.com/austinpython/events/302401295/) / [DC](https://www.meetup.com/dcpython/events/302401301/) - [ruff](https://ceez.github.io/Ruff-Python-Meetup-20241119/) + [Video](https://youtu.be/Tlx_d5vo_vo) by Chris Cowan
 
 
 Acknowledgments
