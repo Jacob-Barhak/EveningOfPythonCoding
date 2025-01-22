@@ -121,6 +121,9 @@ Past Meetups
 * Sep 2024 [Austin](https://www.meetup.com/austinpython/events/302400319/) / [DC](https://www.meetup.com/dcpython/events/302400326/) - [coiled](https://github.com/MoCoMakers/coiled-demo) + [Video](https://youtu.be/Oj8GhtJR02g) by Matthew Zamora
 * Oct 2024 [Austin](https://www.meetup.com/austinpython/events/302400366/) / [DC](https://www.meetup.com/dcpython/events/302400373/) - [wagtail](https://github.com/epolkovnikov/wagtail101) + [Video](https://youtu.be/ervl4VOW5jM) by Evgeny Polkovnikov
 * Nov 2024 [Austin](https://www.meetup.com/austinpython/events/302401295/) / [DC](https://www.meetup.com/dcpython/events/302401301/) - [ruff](https://ceez.github.io/Ruff-Python-Meetup-20241119/) + [Video](https://youtu.be/Tlx_d5vo_vo) by Chris Cowan
+* Jan 2025 [Austin](https://www.meetup.com/austinpython/events/303611127/) / [DC](https://www.meetup.com/dcpython/events/303611110/) - [CrateDB](https://github.com/simonprickett/evening-of-python-cratedb) + [Video](https://youtu.be/LWvEUoHUkE4) by Simon Prickett
+
+
 
 
 Acknowledgments
