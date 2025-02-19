@@ -122,6 +122,7 @@ Past Meetups
 * Oct 2024 [Austin](https://www.meetup.com/austinpython/events/302400366/) / [DC](https://www.meetup.com/dcpython/events/302400373/) - [wagtail](https://github.com/epolkovnikov/wagtail101) + [Video](https://youtu.be/ervl4VOW5jM) by Evgeny Polkovnikov
 * Nov 2024 [Austin](https://www.meetup.com/austinpython/events/302401295/) / [DC](https://www.meetup.com/dcpython/events/302401301/) - [ruff](https://ceez.github.io/Ruff-Python-Meetup-20241119/) + [Video](https://youtu.be/Tlx_d5vo_vo) by Chris Cowan
 * Jan 2025 [Austin](https://www.meetup.com/austinpython/events/303611127/) / [DC](https://www.meetup.com/dcpython/events/303611110/) - [CrateDB](https://github.com/simonprickett/evening-of-python-cratedb) + [Video](https://youtu.be/LWvEUoHUkE4) by Simon Prickett
+* Feb 2025 [Austin](https://www.meetup.com/austinpython/events/303610974/) / [DC](https://www.meetup.com/dcpython/events/304573676/) - [python library](https://github.com/qaas/my-python-library) + [Video](https://youtu.be/xrYDle9tzhM) by Dragos Crintea
 
 
 
