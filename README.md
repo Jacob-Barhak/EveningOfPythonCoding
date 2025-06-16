@@ -125,6 +125,7 @@ Past Meetups
 * Feb 2025 [Austin](https://www.meetup.com/austinpython/events/303610974/) / [DC](https://www.meetup.com/dcpython/events/304573676/) - [python library](https://github.com/qaas/my-python-library) + [Video](https://youtu.be/xrYDle9tzhM) by Dragos Crintea
 * Mar 2025 [Austin](https://www.meetup.com/austinpython/events/306648834/) / [DC](https://www.meetup.com/dcpython/events/306648930/) - [ComfyUI](https://github.com/FluffBaal/how_to_comfyUI) + [Video](https://youtu.be/Fvk_FVihQHI) by Adrian Valdes
 * Apr 2025 [Austin](https://www.meetup.com/austinpython/events/306650752/) / [DC](https://www.meetup.com/dcpython/events/306650775/) - [vision-agent](https://github.com/jjmlovesgit/Golf_tracker) + [Video](https://youtu.be/nqHg3vGKd80) by Jim McCormack
+* May 2025 [Austin](https://www.meetup.com/austinpython/events/303956321/) / [DC](https://www.meetup.com/dcpython/events/303956316/) - [PyArrow](https://github.com/reuven/pyarrow-dc-austin) + [Video](https://youtu.be/I8-NVGW4SmA) by Reuven Lerner
 
 
 
