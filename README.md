@@ -127,6 +127,7 @@ Past Meetups
 * Apr 2025 [Austin](https://www.meetup.com/austinpython/events/306650752/) / [DC](https://www.meetup.com/dcpython/events/306650775/) - [vision-agent](https://github.com/jjmlovesgit/Golf_tracker) + [Video](https://youtu.be/nqHg3vGKd80) by Jim McCormack
 * May 2025 [Austin](https://www.meetup.com/austinpython/events/303956321/) / [DC](https://www.meetup.com/dcpython/events/303956316/) - [PyArrow](https://github.com/reuven/pyarrow-dc-austin) + [Video](https://youtu.be/I8-NVGW4SmA) by Reuven Lerner
 * Jun 2025 [Austin](https://www.meetup.com/austinpython/events/307598433/) / [DC](https://www.meetup.com/dcpython/events/307598435/) - [PyTorchLightning](https://github.com/Jacob-Barhak/PyTorchLightning) + [Video](https://youtu.be/7K3yfj-YjDA) by Jacob Barhak
+* Jul 2025 [Austin](https://www.meetup.com/austinpython/events/307842287/) / [DC](https://www.meetup.com/dcpython/events/307842291/) - [CloudyBot](https://github.com/akshaymittal143/CloudyBot-DevOps-AI) + [Video](https://youtu.be/S1X04wvNl6o) by Akshay Mittal
 
 
 
