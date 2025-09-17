@@ -129,6 +129,7 @@ Past Meetups
 * Jun 2025 [Austin](https://www.meetup.com/austinpython/events/307598433/) / [DC](https://www.meetup.com/dcpython/events/307598435/) - [PyTorchLightning](https://github.com/Jacob-Barhak/PyTorchLightning) + [Video](https://youtu.be/7K3yfj-YjDA) by Jacob Barhak
 * Jul 2025 [Austin](https://www.meetup.com/austinpython/events/307842287/) / [DC](https://www.meetup.com/dcpython/events/307842291/) - [CloudyBot](https://github.com/akshaymittal143/CloudyBot-DevOps-AI) + [Video](https://youtu.be/S1X04wvNl6o) by Akshay Mittal
 * Aug 2025 [Austin](https://www.meetup.com/austinpython/events/308338479/) / [DC](https://www.meetup.com/dcpython/events/308338485/) - [MCP Python SDK](https://github.com/takabayashi/trello-mcp-server-demo) + [Video](https://youtu.be/4Pro547zGdY) by Daniel Takabayashi
+* Sep 2025 [Austin](https://www.meetup.com/austinpython/events/308530517/) / [DC](https://www.meetup.com/dcpython/events/308530521/) - [Zarr](https://github.com/LVeschini78/Zarr_Demo) + [Video](https://youtu.be/X-R9WKTDfg4) by Lorenzo Veschini
 
 
 
