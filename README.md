@@ -132,7 +132,7 @@ Past Meetups
 * Sep 2025 [Austin](https://www.meetup.com/austinpython/events/308530517/) / [DC](https://www.meetup.com/dcpython/events/308530521/) - [Zarr](https://github.com/LVeschini78/Zarr_Demo) + [Video](https://youtu.be/X-R9WKTDfg4) by Lorenzo Veschini
 * Oct 2025 [Austin](https://www.meetup.com/austinpython/events/309649283/) / [DC](https://www.meetup.com/dcpython/events/309649290/) - [NetworkX](https://github.com/Back2Basics/networkx-talk-evening-of-python-coding-10212025/blob/main/graph_intro.ipynb) + [Video](https://youtu.be/GcDIRGSCbu4) by Jeremy Langley
 * Nov 2025 [Austin](https://www.meetup.com/austinpython/events/309921762/) / [DC](https://www.meetup.com/dcpython/events/309921898/) - [LlamaIndex](https://github.com/Zeus0809/llamaindex_rag_demo.git) + [Video](https://youtu.be/qqJ_yNBkDj4) by Illia Kozlov 
-
+* Jan 2026 [Austin](https://www.meetup.com/austinpython/events/311604098/) / [DC](https://www.meetup.com/dcpython/events/311604099/) - [NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit/tree/develop/examples) + [Video](https://youtu.be/hTPuxyGoTtg) by Greg Freeman
 
 
 Acknowledgments
