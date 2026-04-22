@@ -135,6 +135,7 @@ Past Meetups
 * Jan 2026 [Austin](https://www.meetup.com/austinpython/events/311604098/) / [DC](https://www.meetup.com/dcpython/events/311604099/) - [NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit/tree/develop/examples) + [Video](https://youtu.be/hTPuxyGoTtg) by Greg Freeman
 * Feb 2026 [Austin](https://www.meetup.com/austinpython/events/313293363/) / [DC](https://www.meetup.com/dcpython/events/313293366/) - [DuckDB](https://github.com/Jacob-Barhak/duckdb_demo) + [Video](https://youtu.be/VRNPUcJH7fM) by Jacob Barhak
 * Mar 2026 [Austin](https://www.meetup.com/austinpython/events/313418938/) / [DC](https://www.meetup.com/dcpython/events/313418950/) - [Lumen](https://lumen.holoviz.org/) + [Video](https://youtu.be/c1BSOXQiukU) by James Bednar
+* Apr 2026 [Austin](https://www.meetup.com/austinpython/events/313823861/) / [DC](https://www.meetup.com/dcpython/events/313823866/) - [laion-clap](https://github.com/richardofaustin/laion-clap-explorer) + [Video](https://youtu.be/b-1yIs6Lhew) by Richard Wilson
 
 
 Acknowledgments
