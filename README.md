@@ -137,6 +137,8 @@ Past Meetups
 * Mar 2026 [Austin](https://www.meetup.com/austinpython/events/313418938/) / [DC](https://www.meetup.com/dcpython/events/313418950/) - [Lumen](https://lumen.holoviz.org/) + [Video](https://youtu.be/c1BSOXQiukU) by James Bednar
 * Apr 2026 [Austin](https://www.meetup.com/austinpython/events/313823861/) / [DC](https://www.meetup.com/dcpython/events/313823866/) - [laion-clap](https://github.com/richardofaustin/laion-clap-explorer) + [Video](https://youtu.be/b-1yIs6Lhew) by Richard Wilson
 * May 2026 [Austin](https://www.meetup.com/austinpython/events/312544591/) / [DC](https://www.meetup.com/dcpython/events/312544651/) - [django-mongodb-backend](https://github.com/aclark4life/django-mongodb-slides) + [Video](https://youtu.be/mA-UgdzqMIY) by Jeffrey A. Clark (Alex)
+* Jun 2026 [Austin](https://www.meetup.com/austinpython/events/314646799/) / [DC](https://www.meetup.com/dcpython/events/314646804/) - [githits.com](https://github.com/nathanBurg/it-works-on-my-machine/blob/57db7790acf00479b9c447023d9ac1559fbe3a01/exploring-monty-with-githits/OVERVIEW.md) + [Video](https://youtu.be/1sRRErkVHUQ) by Nathan Burg
+
 
 
 
