@@ -140,6 +140,7 @@ Past Meetups
 * Jun 2026 [Austin](https://www.meetup.com/austinpython/events/314646799/) / [DC](https://www.meetup.com/dcpython/events/314646804/) - [githits.com](https://github.com/nathanBurg/it-works-on-my-machine/blob/57db7790acf00479b9c447023d9ac1559fbe3a01/exploring-monty-with-githits/OVERVIEW.md) + [Video](https://youtu.be/1sRRErkVHUQ) by Nathan Burg
 * Jul 2026 [Austin](https://www.meetup.com/austinpython/events/315445835/) / [DC](https://www.meetup.com/dcpython/events/315445839/) - [grain-kit](https://asciinema.org/a/jbqYnzk6Qwz9Tdze) + [Video](https://youtu.be/YTPjbre0DY0) by Shaznay Sison
 * Aug 2026 [Austin](https://www.meetup.com/austinpython/events/316003362/) / [DC](https://www.meetup.com/dcpython/events/316003363/) - [grok](https://docs.google.com/presentation/d/1xEh3I0vhTszxg8TLyR3tGs7eqqWUSjuML1yARlHzWh8/edit?usp=sharing) + [Video](https://youtu.be/62bwtNan7OA) by Allen Childress
+* Sep 2026 [Austin](https://www.meetup.com/austinpython/events/316448285/) / [DC](https://www.meetup.com/dcpython/events/316448302/) - [grok bot marketplace and skills](https://x.ai/bot/marketplace) + [Video](https://youtu.be/uDgxIot2EpQ) by Ivelin Ivanov
 
 
 
